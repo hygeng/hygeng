@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Haoyu
 - 👀 I’m interested in research in graph learning and combinatorial optimization.
 - 🌱 I’m currently learning optimization theory.
-- 📫 Know me more via [personal website](https://hygeng.top/).
+- 📫 Know me more via [personal website](https://hygeng.site/).
 
 ## &#x1f4c8; GitHub Stats
 
